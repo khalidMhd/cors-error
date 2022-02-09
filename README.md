@@ -1,7 +1,8 @@
 # cors-error
 
 **create folder:**
-open terminal, run there commnads.
+
+open terminal, run these commnads.
 
 npm init
 
